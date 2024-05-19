@@ -1,0 +1,12 @@
+D:\UIT\NamHaiHK2\MMH\SecurePay-with-CRYSTALS-DILITHIUM\GenCertificate\GenCertificate\obj\Debug\GenCertificate.csproj.AssemblyReference.cache
+D:\UIT\NamHaiHK2\MMH\SecurePay-with-CRYSTALS-DILITHIUM\GenCertificate\GenCertificate\obj\Debug\GenCertificate.Properties.Resources.resources
+D:\UIT\NamHaiHK2\MMH\SecurePay-with-CRYSTALS-DILITHIUM\GenCertificate\GenCertificate\obj\Debug\GenCertificate.csproj.GenerateResource.cache
+D:\UIT\NamHaiHK2\MMH\SecurePay-with-CRYSTALS-DILITHIUM\GenCertificate\GenCertificate\obj\Debug\GenCertificate.csproj.CoreCompileInputs.cache
+D:\UIT\NamHaiHK2\MMH\SecurePay-with-CRYSTALS-DILITHIUM\GenCertificate\GenCertificate\bin\Debug\GenCertificate.exe.config
+D:\UIT\NamHaiHK2\MMH\SecurePay-with-CRYSTALS-DILITHIUM\GenCertificate\GenCertificate\bin\Debug\GenCertificate.exe
+D:\UIT\NamHaiHK2\MMH\SecurePay-with-CRYSTALS-DILITHIUM\GenCertificate\GenCertificate\bin\Debug\GenCertificate.pdb
+D:\UIT\NamHaiHK2\MMH\SecurePay-with-CRYSTALS-DILITHIUM\GenCertificate\GenCertificate\bin\Debug\BouncyCastle.Crypto.dll
+D:\UIT\NamHaiHK2\MMH\SecurePay-with-CRYSTALS-DILITHIUM\GenCertificate\GenCertificate\obj\Debug\GenCertificate.Certificate_Generator.resources
+D:\UIT\NamHaiHK2\MMH\SecurePay-with-CRYSTALS-DILITHIUM\GenCertificate\GenCertificate\obj\Debug\GenCerti.C199FDC0.Up2Date
+D:\UIT\NamHaiHK2\MMH\SecurePay-with-CRYSTALS-DILITHIUM\GenCertificate\GenCertificate\obj\Debug\GenCertificate.exe
+D:\UIT\NamHaiHK2\MMH\SecurePay-with-CRYSTALS-DILITHIUM\GenCertificate\GenCertificate\obj\Debug\GenCertificate.pdb

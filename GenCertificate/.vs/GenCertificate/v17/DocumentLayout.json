@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UIT\\NamHaiHK2\\MMH\\SecurePay-with-CRYSTALS-DILITHIUM\\GenCertificate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB207DD-2E62-4583-A40A-3F1B092F9DEE}|GenCertificate\\GenCertificate.csproj|D:\\UIT\\NamHaiHK2\\MMH\\SecurePay-with-CRYSTALS-DILITHIUM\\GenCertificate\\gencertificate\\certificate_generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6DB207DD-2E62-4583-A40A-3F1B092F9DEE}|GenCertificate\\GenCertificate.csproj|solutionrelative:gencertificate\\certificate_generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB207DD-2E62-4583-A40A-3F1B092F9DEE}|GenCertificate\\GenCertificate.csproj|d:\\uit\\namhaihk2\\mmh\\securepay-with-crystals-dilithium\\gencertificate\\gencertificate\\cryptography.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DB207DD-2E62-4583-A40A-3F1B092F9DEE}|GenCertificate\\GenCertificate.csproj|solutionrelative:gencertificate\\cryptography.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB207DD-2E62-4583-A40A-3F1B092F9DEE}|GenCertificate\\GenCertificate.csproj|D:\\UIT\\NamHaiHK2\\MMH\\SecurePay-with-CRYSTALS-DILITHIUM\\GenCertificate\\gencertificate\\certificate_generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DB207DD-2E62-4583-A40A-3F1B092F9DEE}|GenCertificate\\GenCertificate.csproj|solutionrelative:gencertificate\\certificate_generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cryptography.cs",
+              "DocumentMoniker": "D:\\UIT\\NamHaiHK2\\MMH\\SecurePay-with-CRYSTALS-DILITHIUM\\GenCertificate\\GenCertificate\\Cryptography.cs",
+              "RelativeDocumentMoniker": "GenCertificate\\Cryptography.cs",
+              "ToolTip": "D:\\UIT\\NamHaiHK2\\MMH\\SecurePay-with-CRYSTALS-DILITHIUM\\GenCertificate\\GenCertificate\\Cryptography.cs",
+              "RelativeToolTip": "GenCertificate\\Cryptography.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwEsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:42:46.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Certificate_Generator.cs",
+              "DocumentMoniker": "D:\\UIT\\NamHaiHK2\\MMH\\SecurePay-with-CRYSTALS-DILITHIUM\\GenCertificate\\GenCertificate\\Certificate_Generator.cs",
+              "RelativeDocumentMoniker": "GenCertificate\\Certificate_Generator.cs",
+              "ToolTip": "D:\\UIT\\NamHaiHK2\\MMH\\SecurePay-with-CRYSTALS-DILITHIUM\\GenCertificate\\GenCertificate\\Certificate_Generator.cs",
+              "RelativeToolTip": "GenCertificate\\Certificate_Generator.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwC8AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:03:47.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Certificate_Generator.cs [Design]",
+              "DocumentMoniker": "D:\\UIT\\NamHaiHK2\\MMH\\SecurePay-with-CRYSTALS-DILITHIUM\\GenCertificate\\GenCertificate\\Certificate_Generator.cs",
+              "RelativeDocumentMoniker": "GenCertificate\\Certificate_Generator.cs",
+              "ToolTip": "D:\\UIT\\NamHaiHK2\\MMH\\SecurePay-with-CRYSTALS-DILITHIUM\\GenCertificate\\GenCertificate\\Certificate_Generator.cs [Design]",
+              "RelativeToolTip": "GenCertificate\\Certificate_Generator.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T09:43:04.992Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
