@@ -10,3 +10,17 @@ D:\UIT\NamHaiHK2\MMH\SecurePay-with-CRYSTALS-DILITHIUM\GenCertificate\GenCertifi
 D:\UIT\NamHaiHK2\MMH\SecurePay-with-CRYSTALS-DILITHIUM\GenCertificate\GenCertificate\obj\Debug\GenCerti.C199FDC0.Up2Date
 D:\UIT\NamHaiHK2\MMH\SecurePay-with-CRYSTALS-DILITHIUM\GenCertificate\GenCertificate\obj\Debug\GenCertificate.exe
 D:\UIT\NamHaiHK2\MMH\SecurePay-with-CRYSTALS-DILITHIUM\GenCertificate\GenCertificate\obj\Debug\GenCertificate.pdb
+E:\Mon Hoc\MMH - NT219.022\anhkhoi\GenCertificate\GenCertificate\bin\Debug\GenCertificate.exe.config
+E:\Mon Hoc\MMH - NT219.022\anhkhoi\GenCertificate\GenCertificate\bin\Debug\GenCertificate.exe
+E:\Mon Hoc\MMH - NT219.022\anhkhoi\GenCertificate\GenCertificate\bin\Debug\GenCertificate.pdb
+E:\Mon Hoc\MMH - NT219.022\anhkhoi\GenCertificate\GenCertificate\bin\Debug\BouncyCastle.Crypto.dll
+E:\Mon Hoc\MMH - NT219.022\anhkhoi\GenCertificate\GenCertificate\bin\Debug\Newtonsoft.Json.dll
+E:\Mon Hoc\MMH - NT219.022\anhkhoi\GenCertificate\GenCertificate\bin\Debug\Newtonsoft.Json.xml
+E:\Mon Hoc\MMH - NT219.022\anhkhoi\GenCertificate\GenCertificate\obj\Debug\GenCertificate.csproj.AssemblyReference.cache
+E:\Mon Hoc\MMH - NT219.022\anhkhoi\GenCertificate\GenCertificate\obj\Debug\GenCertificate.Certificate_Generator.resources
+E:\Mon Hoc\MMH - NT219.022\anhkhoi\GenCertificate\GenCertificate\obj\Debug\GenCertificate.Properties.Resources.resources
+E:\Mon Hoc\MMH - NT219.022\anhkhoi\GenCertificate\GenCertificate\obj\Debug\GenCertificate.csproj.GenerateResource.cache
+E:\Mon Hoc\MMH - NT219.022\anhkhoi\GenCertificate\GenCertificate\obj\Debug\GenCertificate.csproj.CoreCompileInputs.cache
+E:\Mon Hoc\MMH - NT219.022\anhkhoi\GenCertificate\GenCertificate\obj\Debug\GenCerti.C199FDC0.Up2Date
+E:\Mon Hoc\MMH - NT219.022\anhkhoi\GenCertificate\GenCertificate\obj\Debug\GenCertificate.exe
+E:\Mon Hoc\MMH - NT219.022\anhkhoi\GenCertificate\GenCertificate\obj\Debug\GenCertificate.pdb

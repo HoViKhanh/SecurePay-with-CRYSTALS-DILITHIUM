@@ -1,17 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\UIT\\NamHaiHK2\\MMH\\SecurePay-with-CRYSTALS-DILITHIUM\\GenCertificate\\",
+  "WorkspaceRootPath": "E:\\Mon Hoc\\MMH - NT219.022\\anhkhoi\\GenCertificate\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6DB207DD-2E62-4583-A40A-3F1B092F9DEE}|GenCertificate\\GenCertificate.csproj|D:\\UIT\\NamHaiHK2\\MMH\\SecurePay-with-CRYSTALS-DILITHIUM\\GenCertificate\\gencertificate\\certificate_generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6DB207DD-2E62-4583-A40A-3F1B092F9DEE}|GenCertificate\\GenCertificate.csproj|e:\\mon hoc\\mmh - nt219.022\\anhkhoi\\gencertificate\\gencertificate\\exportjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DB207DD-2E62-4583-A40A-3F1B092F9DEE}|GenCertificate\\GenCertificate.csproj|solutionrelative:gencertificate\\exportjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB207DD-2E62-4583-A40A-3F1B092F9DEE}|GenCertificate\\GenCertificate.csproj|e:\\mon hoc\\mmh - nt219.022\\anhkhoi\\gencertificate\\gencertificate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DB207DD-2E62-4583-A40A-3F1B092F9DEE}|GenCertificate\\GenCertificate.csproj|solutionrelative:gencertificate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB207DD-2E62-4583-A40A-3F1B092F9DEE}|GenCertificate\\GenCertificate.csproj|e:\\mon hoc\\mmh - nt219.022\\anhkhoi\\gencertificate\\gencertificate\\exportjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6DB207DD-2E62-4583-A40A-3F1B092F9DEE}|GenCertificate\\GenCertificate.csproj|solutionrelative:gencertificate\\exportjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB207DD-2E62-4583-A40A-3F1B092F9DEE}|GenCertificate\\GenCertificate.csproj|e:\\mon hoc\\mmh - nt219.022\\anhkhoi\\gencertificate\\gencertificate\\certificate_generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6DB207DD-2E62-4583-A40A-3F1B092F9DEE}|GenCertificate\\GenCertificate.csproj|solutionrelative:gencertificate\\certificate_generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DB207DD-2E62-4583-A40A-3F1B092F9DEE}|GenCertificate\\GenCertificate.csproj|d:\\uit\\namhaihk2\\mmh\\securepay-with-crystals-dilithium\\gencertificate\\gencertificate\\cryptography.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6DB207DD-2E62-4583-A40A-3F1B092F9DEE}|GenCertificate\\GenCertificate.csproj|E:\\Mon Hoc\\MMH - NT219.022\\anhkhoi\\GenCertificate\\gencertificate\\cryptography.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DB207DD-2E62-4583-A40A-3F1B092F9DEE}|GenCertificate\\GenCertificate.csproj|solutionrelative:gencertificate\\cryptography.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DB207DD-2E62-4583-A40A-3F1B092F9DEE}|GenCertificate\\GenCertificate.csproj|D:\\UIT\\NamHaiHK2\\MMH\\SecurePay-with-CRYSTALS-DILITHIUM\\GenCertificate\\gencertificate\\certificate_generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6DB207DD-2E62-4583-A40A-3F1B092F9DEE}|GenCertificate\\GenCertificate.csproj|E:\\Mon Hoc\\MMH - NT219.022\\anhkhoi\\GenCertificate\\gencertificate\\certificate_generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DB207DD-2E62-4583-A40A-3F1B092F9DEE}|GenCertificate\\GenCertificate.csproj|solutionrelative:gencertificate\\certificate_generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,23 +34,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Mon Hoc\\MMH - NT219.022\\anhkhoi\\GenCertificate\\GenCertificate\\Program.cs",
+              "RelativeDocumentMoniker": "GenCertificate\\Program.cs",
+              "ToolTip": "E:\\Mon Hoc\\MMH - NT219.022\\anhkhoi\\GenCertificate\\GenCertificate\\Program.cs",
+              "RelativeToolTip": "GenCertificate\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:08:59.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExportJson.cs",
+              "DocumentMoniker": "E:\\Mon Hoc\\MMH - NT219.022\\anhkhoi\\GenCertificate\\GenCertificate\\ExportJson.cs",
+              "RelativeDocumentMoniker": "GenCertificate\\ExportJson.cs",
+              "ToolTip": "E:\\Mon Hoc\\MMH - NT219.022\\anhkhoi\\GenCertificate\\GenCertificate\\ExportJson.cs",
+              "RelativeToolTip": "GenCertificate\\ExportJson.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAFUAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:08:18.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExportJson.cs [Design]",
+              "DocumentMoniker": "E:\\Mon Hoc\\MMH - NT219.022\\anhkhoi\\GenCertificate\\GenCertificate\\ExportJson.cs",
+              "RelativeDocumentMoniker": "GenCertificate\\ExportJson.cs",
+              "ToolTip": "E:\\Mon Hoc\\MMH - NT219.022\\anhkhoi\\GenCertificate\\GenCertificate\\ExportJson.cs [Design]",
+              "RelativeToolTip": "GenCertificate\\ExportJson.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:08:06.682Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Cryptography.cs",
-              "DocumentMoniker": "D:\\UIT\\NamHaiHK2\\MMH\\SecurePay-with-CRYSTALS-DILITHIUM\\GenCertificate\\GenCertificate\\Cryptography.cs",
+              "DocumentMoniker": "E:\\Mon Hoc\\MMH - NT219.022\\anhkhoi\\GenCertificate\\GenCertificate\\Cryptography.cs",
               "RelativeDocumentMoniker": "GenCertificate\\Cryptography.cs",
-              "ToolTip": "D:\\UIT\\NamHaiHK2\\MMH\\SecurePay-with-CRYSTALS-DILITHIUM\\GenCertificate\\GenCertificate\\Cryptography.cs",
+              "ToolTip": "E:\\Mon Hoc\\MMH - NT219.022\\anhkhoi\\GenCertificate\\GenCertificate\\Cryptography.cs",
               "RelativeToolTip": "GenCertificate\\Cryptography.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAYwEsAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -47,11 +93,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Certificate_Generator.cs",
-              "DocumentMoniker": "D:\\UIT\\NamHaiHK2\\MMH\\SecurePay-with-CRYSTALS-DILITHIUM\\GenCertificate\\GenCertificate\\Certificate_Generator.cs",
+              "DocumentMoniker": "E:\\Mon Hoc\\MMH - NT219.022\\anhkhoi\\GenCertificate\\GenCertificate\\Certificate_Generator.cs",
               "RelativeDocumentMoniker": "GenCertificate\\Certificate_Generator.cs",
-              "ToolTip": "D:\\UIT\\NamHaiHK2\\MMH\\SecurePay-with-CRYSTALS-DILITHIUM\\GenCertificate\\GenCertificate\\Certificate_Generator.cs",
+              "ToolTip": "E:\\Mon Hoc\\MMH - NT219.022\\anhkhoi\\GenCertificate\\GenCertificate\\Certificate_Generator.cs",
               "RelativeToolTip": "GenCertificate\\Certificate_Generator.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAYwC8AAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -60,11 +106,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Certificate_Generator.cs [Design]",
-              "DocumentMoniker": "D:\\UIT\\NamHaiHK2\\MMH\\SecurePay-with-CRYSTALS-DILITHIUM\\GenCertificate\\GenCertificate\\Certificate_Generator.cs",
+              "DocumentMoniker": "E:\\Mon Hoc\\MMH - NT219.022\\anhkhoi\\GenCertificate\\GenCertificate\\Certificate_Generator.cs",
               "RelativeDocumentMoniker": "GenCertificate\\Certificate_Generator.cs",
-              "ToolTip": "D:\\UIT\\NamHaiHK2\\MMH\\SecurePay-with-CRYSTALS-DILITHIUM\\GenCertificate\\GenCertificate\\Certificate_Generator.cs [Design]",
+              "ToolTip": "E:\\Mon Hoc\\MMH - NT219.022\\anhkhoi\\GenCertificate\\GenCertificate\\Certificate_Generator.cs [Design]",
               "RelativeToolTip": "GenCertificate\\Certificate_Generator.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-19T09:43:04.992Z",

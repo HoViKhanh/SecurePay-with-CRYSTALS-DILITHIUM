@@ -16,7 +16,7 @@ namespace GenCertificate
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(mainForm: new Certificate_Generator());
+            Application.Run(mainForm: new ExportJson());
         }
     }
 }
