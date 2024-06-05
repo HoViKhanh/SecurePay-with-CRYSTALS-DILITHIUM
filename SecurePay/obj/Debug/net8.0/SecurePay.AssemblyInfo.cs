@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SecurePay")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1860a566943d22f977968ea49c8c60f85f8b9627")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09860a8c88a4ac8c37597a0c4eecaf3edfdcd9a8")]
 [assembly: System.Reflection.AssemblyProductAttribute("SecurePay")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SecurePay")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

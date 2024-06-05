@@ -32,3 +32,4 @@ D:\UIT\NamHaiHK2\MMH\SecurePay-with-CRYSTALS-DILITHIUM\SecurePay\obj\Debug\net8.
 D:\UIT\NamHaiHK2\MMH\SecurePay-with-CRYSTALS-DILITHIUM\SecurePay\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
 D:\UIT\NamHaiHK2\MMH\SecurePay-with-CRYSTALS-DILITHIUM\SecurePay\obj\Debug\net8.0\SecurePay.csproj.AssemblyReference.cache
 D:\UIT\NamHaiHK2\MMH\SecurePay-with-CRYSTALS-DILITHIUM\SecurePay\obj\Debug\net8.0\SecurePay.csproj.Up2Date
+D:\UIT\NamHaiHK2\MMH\SecurePay-with-CRYSTALS-DILITHIUM\SecurePay\bin\Debug\net8.0\Newtonsoft.Json.dll

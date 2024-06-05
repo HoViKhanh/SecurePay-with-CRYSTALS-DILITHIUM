@@ -19,3 +19,13 @@ app.UseAuthorization();
 app.MapRazorPages();
 
 app.Run();
+
+app.UseEndpoints(endpoints =>
+{
+    endpoints.MapControllerRoute(
+        name: "default",
+        pattern: "{controller=Home}/{action=Index}/{id?}");
+    endpoints.MapControllerRoute(
+        name: "invoice",
+        pattern: "{controller=Invoice}/{action=CreateInvoice}/{id?}");
+});
