@@ -29,3 +29,4 @@ D:\UIT\NamHaiHK2\MMH\SecurePay-with-CRYSTALS-DILITHIUM\MyDilithiumWebApp\obj\Deb
 D:\UIT\NamHaiHK2\MMH\SecurePay-with-CRYSTALS-DILITHIUM\MyDilithiumWebApp\obj\Debug\net8.0\MyDilithiumWebApp.pdb
 D:\UIT\NamHaiHK2\MMH\SecurePay-with-CRYSTALS-DILITHIUM\MyDilithiumWebApp\obj\Debug\net8.0\MyDilithiumWebApp.genruntimeconfig.cache
 D:\UIT\NamHaiHK2\MMH\SecurePay-with-CRYSTALS-DILITHIUM\MyDilithiumWebApp\obj\Debug\net8.0\ref\MyDilithiumWebApp.dll
+D:\UIT\NamHaiHK2\MMH\SecurePay-with-CRYSTALS-DILITHIUM\MyDilithiumWebApp\obj\Debug\net8.0\MyDilithiumWebApp.csproj.AssemblyReference.cache
