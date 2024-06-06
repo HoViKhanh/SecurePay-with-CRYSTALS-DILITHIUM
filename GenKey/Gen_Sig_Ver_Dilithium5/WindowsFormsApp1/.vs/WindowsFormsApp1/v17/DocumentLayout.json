@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Mon Hoc\\MMH - NT219.022\\anhkhoi\\GenKey\\Gen_Sig_Ver_Dilithium5\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05FADF26-016B-433D-81CB-D1CF83332B02}|WindowsFormsApp1\\WindowsFormsApp1.csproj|E:\\Mon Hoc\\MMH - NT219.022\\anhkhoi\\GenKey\\Gen_Sig_Ver_Dilithium5\\WindowsFormsApp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05FADF26-016B-433D-81CB-D1CF83332B02}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FADF26-016B-433D-81CB-D1CF83332B02}|WindowsFormsApp1\\WindowsFormsApp1.csproj|e:\\mon hoc\\mmh - nt219.022\\anhkhoi\\genkey\\gen_sig_ver_dilithium5\\windowsformsapp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{05FADF26-016B-433D-81CB-D1CF83332B02}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FADF26-016B-433D-81CB-D1CF83332B02}|WindowsFormsApp1\\WindowsFormsApp1.csproj|E:\\Mon Hoc\\MMH - NT219.022\\anhkhoi\\GenKey\\Gen_Sig_Ver_Dilithium5\\WindowsFormsApp1\\windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05FADF26-016B-433D-81CB-D1CF83332B02}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Mon Hoc\\MMH - NT219.022\\anhkhoi\\GenKey\\Gen_Sig_Ver_Dilithium5\\WindowsFormsApp1\\WindowsFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Program.cs",
+              "ToolTip": "E:\\Mon Hoc\\MMH - NT219.022\\anhkhoi\\GenKey\\Gen_Sig_Ver_Dilithium5\\WindowsFormsApp1\\WindowsFormsApp1\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T04:36:06.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Mon Hoc\\MMH - NT219.022\\anhkhoi\\GenKey\\Gen_Sig_Ver_Dilithium5\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "E:\\Mon Hoc\\MMH - NT219.022\\anhkhoi\\GenKey\\Gen_Sig_Ver_Dilithium5\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwFAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:43:50.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\Mon Hoc\\MMH - NT219.022\\anhkhoi\\GenKey\\Gen_Sig_Ver_Dilithium5\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "E:\\Mon Hoc\\MMH - NT219.022\\anhkhoi\\GenKey\\Gen_Sig_Ver_Dilithium5\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:22:47.328Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

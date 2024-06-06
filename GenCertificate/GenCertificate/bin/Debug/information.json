@@ -1,0 +1,35 @@
+{
+  "BuyerInfo": {
+    "CustomerId": "001",
+    "Name": "khoi",
+    "Address": "khoi",
+    "Phone": "012319",
+    "Email": "khoi@gmail.com"
+  },
+  "SellerInfo": {
+    "CustomerId": null,
+    "Name": "ad",
+    "Address": "ad",
+    "Phone": "123131",
+    "Email": "ad@gmail.com"
+  },
+  "OrderInfo": {
+    "OrderId": "adadafa",
+    "Date": "23-05-2024 00:10",
+    "Items": [
+      {
+        "ProductName": "1",
+        "Quantity": 1,
+        "UnitPrice": 10000.0,
+        "TotalPrice": 10000.0
+      },
+      {
+        "ProductName": "trung",
+        "Quantity": 2,
+        "UnitPrice": 4000.0,
+        "TotalPrice": 8000.0
+      }
+    ],
+    "TotalAmount": 18000.0
+  }
+}

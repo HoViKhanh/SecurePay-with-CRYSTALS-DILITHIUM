@@ -34,29 +34,31 @@
             this.txtBuyerPhone = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.txtBuyerCustomerId = new System.Windows.Forms.TextBox();
+            this.Id = new System.Windows.Forms.Label();
+            this.label7 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
             this.panel2 = new System.Windows.Forms.Panel();
+            this.label11 = new System.Windows.Forms.Label();
             this.txtSellerEmail = new System.Windows.Forms.TextBox();
+            this.label10 = new System.Windows.Forms.Label();
             this.txtSellerPhone = new System.Windows.Forms.TextBox();
+            this.label9 = new System.Windows.Forms.Label();
             this.txtSellerAddress = new System.Windows.Forms.TextBox();
+            this.label8 = new System.Windows.Forms.Label();
             this.txtSellerName = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.dataGridViewItems = new System.Windows.Forms.DataGridView();
+            this.ProductName = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Quantity = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.UnitPrice = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.btnGenerateInvoice = new System.Windows.Forms.Button();
             this.btnCancel = new System.Windows.Forms.Button();
             this.panel3 = new System.Windows.Forms.Panel();
             this.label3 = new System.Windows.Forms.Label();
             this.txtOrderId = new System.Windows.Forms.TextBox();
-            this.label5 = new System.Windows.Forms.Label();
-            this.label6 = new System.Windows.Forms.Label();
-            this.label7 = new System.Windows.Forms.Label();
-            this.label8 = new System.Windows.Forms.Label();
-            this.label9 = new System.Windows.Forms.Label();
-            this.label10 = new System.Windows.Forms.Label();
-            this.label11 = new System.Windows.Forms.Label();
-            this.ProductName = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Quantity = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.UnitPrice = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewItems)).BeginInit();
@@ -65,34 +67,38 @@
             // 
             // txtBuyerName
             // 
-            this.txtBuyerName.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtBuyerName.Location = new System.Drawing.Point(145, 44);
+            this.txtBuyerName.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtBuyerName.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtBuyerName.Location = new System.Drawing.Point(145, 88);
             this.txtBuyerName.Name = "txtBuyerName";
-            this.txtBuyerName.Size = new System.Drawing.Size(170, 26);
+            this.txtBuyerName.Size = new System.Drawing.Size(170, 23);
             this.txtBuyerName.TabIndex = 0;
             // 
             // txtBuyerAddress
             // 
-            this.txtBuyerAddress.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtBuyerAddress.Location = new System.Drawing.Point(145, 89);
+            this.txtBuyerAddress.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtBuyerAddress.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtBuyerAddress.Location = new System.Drawing.Point(145, 135);
             this.txtBuyerAddress.Name = "txtBuyerAddress";
-            this.txtBuyerAddress.Size = new System.Drawing.Size(170, 26);
+            this.txtBuyerAddress.Size = new System.Drawing.Size(170, 23);
             this.txtBuyerAddress.TabIndex = 1;
             // 
             // txtBuyerEmail
             // 
-            this.txtBuyerEmail.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtBuyerEmail.Location = new System.Drawing.Point(145, 171);
+            this.txtBuyerEmail.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtBuyerEmail.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtBuyerEmail.Location = new System.Drawing.Point(145, 218);
             this.txtBuyerEmail.Name = "txtBuyerEmail";
-            this.txtBuyerEmail.Size = new System.Drawing.Size(170, 26);
+            this.txtBuyerEmail.Size = new System.Drawing.Size(170, 23);
             this.txtBuyerEmail.TabIndex = 2;
             // 
             // txtBuyerPhone
             // 
-            this.txtBuyerPhone.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtBuyerPhone.Location = new System.Drawing.Point(145, 127);
+            this.txtBuyerPhone.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtBuyerPhone.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtBuyerPhone.Location = new System.Drawing.Point(145, 176);
             this.txtBuyerPhone.Name = "txtBuyerPhone";
-            this.txtBuyerPhone.Size = new System.Drawing.Size(170, 26);
+            this.txtBuyerPhone.Size = new System.Drawing.Size(170, 23);
             this.txtBuyerPhone.TabIndex = 3;
             // 
             // label1
@@ -111,6 +117,8 @@
             this.panel1.AutoSize = true;
             this.panel1.BackColor = System.Drawing.Color.MistyRose;
             this.panel1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.panel1.Controls.Add(this.txtBuyerCustomerId);
+            this.panel1.Controls.Add(this.Id);
             this.panel1.Controls.Add(this.label7);
             this.panel1.Controls.Add(this.label4);
             this.panel1.Controls.Add(this.label6);
@@ -123,18 +131,67 @@
             this.panel1.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.panel1.Location = new System.Drawing.Point(12, 12);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(348, 225);
+            this.panel1.Size = new System.Drawing.Size(348, 262);
             this.panel1.TabIndex = 5;
+            // 
+            // txtBuyerCustomerId
+            // 
+            this.txtBuyerCustomerId.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtBuyerCustomerId.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtBuyerCustomerId.Location = new System.Drawing.Point(145, 40);
+            this.txtBuyerCustomerId.Name = "txtBuyerCustomerId";
+            this.txtBuyerCustomerId.Size = new System.Drawing.Size(170, 23);
+            this.txtBuyerCustomerId.TabIndex = 15;
+            // 
+            // Id
+            // 
+            this.Id.AutoSize = true;
+            this.Id.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Id.Location = new System.Drawing.Point(13, 47);
+            this.Id.Name = "Id";
+            this.Id.Size = new System.Drawing.Size(22, 20);
+            this.Id.TabIndex = 14;
+            this.Id.Text = "Id";
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label7.Location = new System.Drawing.Point(9, 218);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(51, 20);
+            this.label7.TabIndex = 13;
+            this.label7.Text = "Email";
             // 
             // label4
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(11, 47);
+            this.label4.Location = new System.Drawing.Point(11, 94);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(59, 20);
             this.label4.TabIndex = 11;
             this.label4.Text = "Họ tên";
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label6.Location = new System.Drawing.Point(9, 182);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(106, 20);
+            this.label6.TabIndex = 12;
+            this.label6.Text = "Số điện thoại";
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label5.Location = new System.Drawing.Point(9, 141);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(61, 20);
+            this.label5.TabIndex = 11;
+            this.label5.Text = "Địa chỉ";
             // 
             // panel2
             // 
@@ -154,36 +211,80 @@
             this.panel2.Size = new System.Drawing.Size(347, 246);
             this.panel2.TabIndex = 6;
             // 
+            // label11
+            // 
+            this.label11.AutoSize = true;
+            this.label11.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label11.Location = new System.Drawing.Point(10, 201);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(51, 20);
+            this.label11.TabIndex = 14;
+            this.label11.Text = "Email";
+            // 
             // txtSellerEmail
             // 
-            this.txtSellerEmail.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtSellerEmail.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtSellerEmail.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtSellerEmail.Location = new System.Drawing.Point(148, 204);
             this.txtSellerEmail.Name = "txtSellerEmail";
-            this.txtSellerEmail.Size = new System.Drawing.Size(166, 26);
+            this.txtSellerEmail.Size = new System.Drawing.Size(166, 23);
             this.txtSellerEmail.TabIndex = 4;
+            // 
+            // label10
+            // 
+            this.label10.AutoSize = true;
+            this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label10.Location = new System.Drawing.Point(8, 156);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(106, 20);
+            this.label10.TabIndex = 13;
+            this.label10.Text = "Số điện thoại";
             // 
             // txtSellerPhone
             // 
-            this.txtSellerPhone.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtSellerPhone.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtSellerPhone.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtSellerPhone.Location = new System.Drawing.Point(148, 153);
             this.txtSellerPhone.Name = "txtSellerPhone";
-            this.txtSellerPhone.Size = new System.Drawing.Size(166, 26);
+            this.txtSellerPhone.Size = new System.Drawing.Size(166, 23);
             this.txtSellerPhone.TabIndex = 3;
+            // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label9.Location = new System.Drawing.Point(8, 107);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(61, 20);
+            this.label9.TabIndex = 12;
+            this.label9.Text = "Địa chỉ";
             // 
             // txtSellerAddress
             // 
-            this.txtSellerAddress.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtSellerAddress.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtSellerAddress.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtSellerAddress.Location = new System.Drawing.Point(148, 104);
             this.txtSellerAddress.Name = "txtSellerAddress";
-            this.txtSellerAddress.Size = new System.Drawing.Size(166, 26);
+            this.txtSellerAddress.Size = new System.Drawing.Size(166, 23);
             this.txtSellerAddress.TabIndex = 2;
+            // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label8.Location = new System.Drawing.Point(10, 50);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(59, 20);
+            this.label8.TabIndex = 11;
+            this.label8.Text = "Họ tên";
             // 
             // txtSellerName
             // 
-            this.txtSellerName.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtSellerName.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtSellerName.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtSellerName.Location = new System.Drawing.Point(148, 50);
             this.txtSellerName.Name = "txtSellerName";
-            this.txtSellerName.Size = new System.Drawing.Size(166, 26);
+            this.txtSellerName.Size = new System.Drawing.Size(166, 23);
             this.txtSellerName.TabIndex = 1;
             // 
             // label2
@@ -212,11 +313,32 @@
             this.dataGridViewItems.Size = new System.Drawing.Size(578, 366);
             this.dataGridViewItems.TabIndex = 7;
             // 
+            // ProductName
+            // 
+            this.ProductName.HeaderText = "ProductName";
+            this.ProductName.MinimumWidth = 6;
+            this.ProductName.Name = "ProductName";
+            this.ProductName.Width = 127;
+            // 
+            // Quantity
+            // 
+            this.Quantity.HeaderText = "Quantity";
+            this.Quantity.MinimumWidth = 6;
+            this.Quantity.Name = "Quantity";
+            this.Quantity.Width = 127;
+            // 
+            // UnitPrice
+            // 
+            this.UnitPrice.HeaderText = "UnitPrice";
+            this.UnitPrice.MinimumWidth = 6;
+            this.UnitPrice.Name = "UnitPrice";
+            this.UnitPrice.Width = 127;
+            // 
             // btnGenerateInvoice
             // 
             this.btnGenerateInvoice.BackColor = System.Drawing.Color.SteelBlue;
             this.btnGenerateInvoice.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnGenerateInvoice.Location = new System.Drawing.Point(26, 97);
+            this.btnGenerateInvoice.Location = new System.Drawing.Point(271, 97);
             this.btnGenerateInvoice.Name = "btnGenerateInvoice";
             this.btnGenerateInvoice.Size = new System.Drawing.Size(138, 45);
             this.btnGenerateInvoice.TabIndex = 8;
@@ -229,7 +351,7 @@
             // 
             this.btnCancel.BackColor = System.Drawing.Color.RosyBrown;
             this.btnCancel.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnCancel.Location = new System.Drawing.Point(372, 97);
+            this.btnCancel.Location = new System.Drawing.Point(426, 97);
             this.btnCancel.Name = "btnCancel";
             this.btnCancel.Size = new System.Drawing.Size(120, 45);
             this.btnCancel.TabIndex = 9;
@@ -262,102 +384,12 @@
             // 
             // txtOrderId
             // 
-            this.txtOrderId.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtOrderId.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtOrderId.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtOrderId.Location = new System.Drawing.Point(152, 16);
             this.txtOrderId.Name = "txtOrderId";
-            this.txtOrderId.Size = new System.Drawing.Size(165, 26);
+            this.txtOrderId.Size = new System.Drawing.Size(165, 23);
             this.txtOrderId.TabIndex = 10;
-            // 
-            // label5
-            // 
-            this.label5.AutoSize = true;
-            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(9, 92);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(61, 20);
-            this.label5.TabIndex = 11;
-            this.label5.Text = "Địa chỉ";
-            // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(9, 133);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(106, 20);
-            this.label6.TabIndex = 12;
-            this.label6.Text = "Số điện thoại";
-            // 
-            // label7
-            // 
-            this.label7.AutoSize = true;
-            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label7.Location = new System.Drawing.Point(11, 177);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(51, 20);
-            this.label7.TabIndex = 13;
-            this.label7.Text = "Email";
-            // 
-            // label8
-            // 
-            this.label8.AutoSize = true;
-            this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label8.Location = new System.Drawing.Point(10, 50);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(59, 20);
-            this.label8.TabIndex = 11;
-            this.label8.Text = "Họ tên";
-            // 
-            // label9
-            // 
-            this.label9.AutoSize = true;
-            this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label9.Location = new System.Drawing.Point(8, 107);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(61, 20);
-            this.label9.TabIndex = 12;
-            this.label9.Text = "Địa chỉ";
-            // 
-            // label10
-            // 
-            this.label10.AutoSize = true;
-            this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label10.Location = new System.Drawing.Point(8, 156);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(106, 20);
-            this.label10.TabIndex = 13;
-            this.label10.Text = "Số điện thoại";
-            // 
-            // label11
-            // 
-            this.label11.AutoSize = true;
-            this.label11.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label11.Location = new System.Drawing.Point(10, 201);
-            this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(51, 20);
-            this.label11.TabIndex = 14;
-            this.label11.Text = "Email";
-            // 
-            // ProductName
-            // 
-            this.ProductName.HeaderText = "ProductName";
-            this.ProductName.MinimumWidth = 6;
-            this.ProductName.Name = "ProductName";
-            this.ProductName.Width = 127;
-            // 
-            // Quantity
-            // 
-            this.Quantity.HeaderText = "Quantity";
-            this.Quantity.MinimumWidth = 6;
-            this.Quantity.Name = "Quantity";
-            this.Quantity.Width = 127;
-            // 
-            // UnitPrice
-            // 
-            this.UnitPrice.HeaderText = "UnitPrice";
-            this.UnitPrice.MinimumWidth = 6;
-            this.UnitPrice.Name = "UnitPrice";
-            this.UnitPrice.Width = 127;
             // 
             // ExportJson
             // 
@@ -414,5 +446,7 @@
         private new System.Windows.Forms.DataGridViewTextBoxColumn ProductName;
         private System.Windows.Forms.DataGridViewTextBoxColumn Quantity;
         private System.Windows.Forms.DataGridViewTextBoxColumn UnitPrice;
+        private System.Windows.Forms.Label Id;
+        private System.Windows.Forms.TextBox txtBuyerCustomerId;
     }
 }

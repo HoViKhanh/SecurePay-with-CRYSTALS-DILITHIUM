@@ -21,6 +21,7 @@ namespace GenCertificate
         }
         public class Person
         {
+            public string CustomerId { get; set; }
             public string Name { get; set; }
             public string Address { get; set; }
             public string Phone { get; set; }
@@ -85,7 +86,7 @@ namespace GenCertificate
             TimeSpan vietnamOffset = TimeSpan.FromHours(7);
             DateTimeOffset utcNow = DateTimeOffset.UtcNow;
             DateTime vietnamTime = utcNow.ToOffset(vietnamOffset).DateTime;
-            string formattedTime = vietnamTime.ToString("dd-MM-yyyy HH:mm");
+            string formattedTime = vietnamTime.ToString("dd-MM-yyyy HH:mm:ss");
             //bool allRowsValid = true;
             if (!IsEmail(txtSellerEmail.Text) & !IsEmail(txtSellerEmail.Text))
             {
@@ -102,6 +103,7 @@ namespace GenCertificate
 
                 BuyerInfo = new Person
                 {
+                    CustomerId = txtBuyerCustomerId.Text,
                     Name = txtBuyerName.Text,
                     Address = txtBuyerAddress.Text,
                     Phone = txtBuyerPhone.Text,

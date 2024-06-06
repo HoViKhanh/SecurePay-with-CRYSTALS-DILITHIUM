@@ -1,0 +1,61 @@
+[
+  {
+    "BuyerInfo": {
+      "CustomerId": "001",
+      "Name": "khoi",
+      "Address": "khoi",
+      "Phone": "112233",
+      "Email": "khoi@gmail.com"
+    },
+    "SellerInfo": {
+      "CustomerId": null,
+      "Name": "ad",
+      "Address": "ad",
+      "Phone": "1231313",
+      "Email": "ad@gmail.com"
+    },
+    "OrderInfo": {
+      "OrderId": "hjahsajka",
+      "Date": "2024-05-23 00:00:10",
+      "Items": [
+        {
+          "ProductName": "1",
+          "Quantity": 1,
+          "UnitPrice": 1.0,
+          "TotalPrice": 1.0
+        },
+        {
+          "ProductName": "trung",
+          "Quantity": 2,
+          "UnitPrice": 10000.0,
+          "TotalPrice": 20000.0
+        },
+        {
+          "ProductName": "thit",
+          "Quantity": 1,
+          "UnitPrice": 20000.0,
+          "TotalPrice": 20000.0
+        },
+        {
+          "ProductName": "trung",
+          "Quantity": 2,
+          "UnitPrice": 10000.0,
+          "TotalPrice": 20000.0
+        },
+        {
+          "ProductName": "ca",
+          "Quantity": 1,
+          "UnitPrice": 99000.0,
+          "TotalPrice": 99000.0
+        },
+        {
+          "ProductName": "trung",
+          "Quantity": 2,
+          "UnitPrice": 10000.0,
+          "TotalPrice": 20000.0
+        }
+      ],
+      "TotalAmount": 179001.0
+    }
+  }
+]
