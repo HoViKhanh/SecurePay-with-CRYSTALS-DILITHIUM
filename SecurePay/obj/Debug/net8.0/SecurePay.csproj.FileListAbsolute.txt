@@ -33,3 +33,15 @@ D:\UIT\NamHaiHK2\MMH\SecurePay-with-CRYSTALS-DILITHIUM\SecurePay\bin\Debug\net8.
 D:\UIT\NamHaiHK2\MMH\SecurePay-with-CRYSTALS-DILITHIUM\SecurePay\obj\Debug\net8.0\SecurePay.csproj.AssemblyReference.cache
 D:\UIT\NamHaiHK2\MMH\SecurePay-with-CRYSTALS-DILITHIUM\SecurePay\obj\Debug\net8.0\SecurePay.csproj.Up2Date
 D:\UIT\NamHaiHK2\MMH\SecurePay-with-CRYSTALS-DILITHIUM\SecurePay\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\UIT\NamHaiHK2\MMH\SecurePay-with-CRYSTALS-DILITHIUM\SecurePay\bin\Debug\net8.0\AWSSDK.Core.dll
+D:\UIT\NamHaiHK2\MMH\SecurePay-with-CRYSTALS-DILITHIUM\SecurePay\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+D:\UIT\NamHaiHK2\MMH\SecurePay-with-CRYSTALS-DILITHIUM\SecurePay\bin\Debug\net8.0\DnsClient.dll
+D:\UIT\NamHaiHK2\MMH\SecurePay-with-CRYSTALS-DILITHIUM\SecurePay\bin\Debug\net8.0\MongoDB.Bson.dll
+D:\UIT\NamHaiHK2\MMH\SecurePay-with-CRYSTALS-DILITHIUM\SecurePay\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+D:\UIT\NamHaiHK2\MMH\SecurePay-with-CRYSTALS-DILITHIUM\SecurePay\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+D:\UIT\NamHaiHK2\MMH\SecurePay-with-CRYSTALS-DILITHIUM\SecurePay\bin\Debug\net8.0\SharpCompress.dll
+D:\UIT\NamHaiHK2\MMH\SecurePay-with-CRYSTALS-DILITHIUM\SecurePay\bin\Debug\net8.0\Snappier.dll
+D:\UIT\NamHaiHK2\MMH\SecurePay-with-CRYSTALS-DILITHIUM\SecurePay\bin\Debug\net8.0\ZstdSharp.dll
+D:\UIT\NamHaiHK2\MMH\SecurePay-with-CRYSTALS-DILITHIUM\SecurePay\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+D:\UIT\NamHaiHK2\MMH\SecurePay-with-CRYSTALS-DILITHIUM\SecurePay\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+D:\UIT\NamHaiHK2\MMH\SecurePay-with-CRYSTALS-DILITHIUM\SecurePay\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll

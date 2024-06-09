@@ -1,3 +1,19 @@
 ﻿@page
+@model SecurePay.Pages.PaymentModel
+@{
+    ViewData["Title"] = "Payment Page";
+}
 
-<h1>This is Payments</h1>
+<h2>Payment Information</h2>
+
+<div>
+    <p>Name: @Model.Name</p>
+    <p>Email: @Model.Email</p>
+    <p>Address: @Model.Address</p>
+    <p>Amount: @Model.Amount</p>
+</div>
+
+<form method="post">
+    <!-- Thêm các thông tin thanh toán cần thiết -->
+    <button type="submit" class="btn btn-success">Confirm Payment</button>
+</form>

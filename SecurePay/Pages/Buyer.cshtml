@@ -1,0 +1,76 @@
+﻿@page
+@model SecurePay.Pages.BuyerModel
+@{
+    ViewData["Title"] = "Buyer Page";
+}
+
+<h2>Buyer Information</h2>
+
+<form method="post">
+    <div class="form-group">
+        <label asp-for="Buyer.Name"></label>
+        <input asp-for="Buyer.Name" class="form-control" />
+        <span asp-validation-for="Buyer.Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Buyer.Email"></label>
+        <input asp-for="Buyer.Email" class="form-control" />
+        <span asp-validation-for="Buyer.Email" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Buyer.Address"></label>
+        <input asp-for="Buyer.Address" class="form-control" />
+        <span asp-validation-for="Buyer.Address" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Buyer.Product"></label>
+        <input asp-for="Buyer.Product" class="form-control" />
+        <span asp-validation-for="Buyer.Product" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Buyer.Amount"></label>
+        <input asp-for="Buyer.Amount" class="form-control" />
+        <span asp-validation-for="Buyer.Amount" class="text-danger"></span>
+    </div>
+    <button type="button" class="btn btn-primary" onclick="createCertificate()">Pay</button>
+</form>
+
+@section Scripts {
+    <script>
+        function createCertificate() {
+            var buyerName = document.getElementById("Buyer_Name").value;
+            var buyerEmail = document.getElementById("Buyer_Email").value;
+            var buyerAddress = document.getElementById("Buyer_Address").value;
+            var buyerProduct = document.getElementById("Buyer_Product").value;
+            var buyerAmount = document.getElementById("Buyer_Amount").value;
+
+            var formData = {
+                "type": "BUYER",
+                "name": buyerName,
+                "email": buyerEmail,
+                "address": buyerAddress,
+                "product": buyerProduct,
+                "amount": buyerAmount
+            };
+
+            var requestOptions = {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(formData)
+            };
+
+            fetch('/certificate/create', requestOptions)
+                .then(response => response.json())
+                .then(data => {
+                    if (data.success) {
+                        alert("Certificate creation successful!");
+                    } else {
+                        alert("Certificate creation failed!");
+                    }
+                })
+                .catch(error => console.error('Error:', error));
+        }
+    </script>
+}

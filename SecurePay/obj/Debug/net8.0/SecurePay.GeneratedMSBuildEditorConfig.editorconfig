@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\UIT\NamHaiHK2\MMH\SecurePay-with-CRYSTALS-DILITHIUM\SecurePay
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/UIT/NamHaiHK2/MMH/SecurePay-with-CRYSTALS-DILITHIUM/SecurePay/Pages/Buyer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQnV5ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/UIT/NamHaiHK2/MMH/SecurePay-with-CRYSTALS-DILITHIUM/SecurePay/Pages/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -30,16 +34,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UIT/NamHaiHK2/MMH/SecurePay-with-CRYSTALS-DILITHIUM/SecurePay/Pages/Invoice.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW52b2ljZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [D:/UIT/NamHaiHK2/MMH/SecurePay-with-CRYSTALS-DILITHIUM/SecurePay/Pages/Payment.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5bWVudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/UIT/NamHaiHK2/MMH/SecurePay-with-CRYSTALS-DILITHIUM/SecurePay/Pages/Seller.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VsbGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/UIT/NamHaiHK2/MMH/SecurePay-with-CRYSTALS-DILITHIUM/SecurePay/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UIT/NamHaiHK2/MMH/SecurePay-with-CRYSTALS-DILITHIUM/SecurePay/Pages/TTTM.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVFRUTS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/UIT/NamHaiHK2/MMH/SecurePay-with-CRYSTALS-DILITHIUM/SecurePay/Pages/_ViewImports.cshtml]
